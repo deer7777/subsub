@@ -1,5 +1,5 @@
 package subsub
 
 func Print() string {
-	return "v1.0.1"
+	return "v3.0.0"
 }
